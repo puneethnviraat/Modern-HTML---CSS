@@ -1,0 +1,45 @@
+.navbar ul,.navbar h1{
+  float: none;
+  display: block;
+  text-align: center;
+}
+.navbar ul li{
+  display: block;
+}
+.navbar ul li a{
+  text-align: center;
+  color: #fff;
+  padding: 5px;
+ }
+ #home-info .info-img{
+  float: none;
+  display: none;
+ }
+ #home-info .info-content{
+  float: none;
+  width: 100%;
+ }
+ .box{
+  width: 100%;
+  padding: 20px;
+ }
+
+ /* about page  */
+ #about-info .info-right, #about-info .info-left{
+  float: none;
+  width: 100%;
+  display: block;
+  margin: 5px 0px;
+  text-align: center;
+ }
+ #testimonials{
+  height: 100%;
+ }
+
+ #contact-form {
+  margin-bottom: 20px;
+  background: #d2d1d1;
+ }
+ #contact-info .box{
+  border-bottom: 2px dotted #f4f4f4;
+ }

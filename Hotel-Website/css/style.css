@@ -65,6 +65,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: #2d2c2c;
   overflow: auto;
   color: #fff;
+  height: 40px;
 }
 .navbar h1{
   float: left;
@@ -79,7 +80,6 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .navbar ul li a{
  text-align: center;
  color: #fff;
- padding: 20px;
 }
 .navbar ul li a:hover, .navbar ul li:hover, .navbar ul li.active {
   color: chocolate;
